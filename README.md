@@ -1,7 +1,7 @@
 ## ¡Hola, mi nombre es Walter Isaac! 👋
 <p align="center" width="300">
    <img align="center" width="200" />
-   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+   <h3 align="center">¡Hola 👋! mi nombre es Walter Isaac </h3>
 </p>
 
 <!--
