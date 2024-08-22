@@ -1,4 +1,8 @@
 ## ¡Hola, mi nombre es Walter Isaac! 👋
+<p align="center" width="300">
+   <img align="center" width="200" />
+   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+</p>
 
 <!--
 **sakoke/sakoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
