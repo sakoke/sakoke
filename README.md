@@ -1,4 +1,4 @@
-## ¡Hola, mi nombre es Walter Isaac! 👋
+## <p align="center" > ¡Hola, mi nombre es Walter Isaac! 👋 </p>
 <p align="center" width="300">
    <img align="center" width="200" />
    <h3 align="center">¡Hola 👋! mi nombre es Walter Isaac </h3>
