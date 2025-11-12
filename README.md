@@ -2,7 +2,7 @@
 
 
 # Sobre mí:
-Soy un estudiante de Ingeniería en Sistemas con muchas ganas de aprender y mejorar cada día. Me encanta la idea de poner en práctica mis habilidades en el trabajo, aportar ideas frescas y asumir los retos.<br><br>Disfruto trabajando en equipo y creo que una buena actitud y energía positiva hacen la diferencia. Soy autodidacta, adaptable, y siempre comprometido con lo que hago. Me esfuerzo por ser responsable y gestionar bien mi tiempo. Creo que empatía y la paciencia son claves para mejorar en esta area del desarrollo.<br><br>Estoy aquí para colaborar, aprender y crecer junto a la comunidad.
+Soy un desarrollador con muchas ganas de aprender y mejorar cada día. Me encanta la idea de poner en práctica mis habilidades en el trabajo, aportar ideas frescas y asumir los retos.<br><br>Disfruto trabajando en equipo y creo que una buena actitud y energía positiva hacen la diferencia. Soy autodidacta, adaptable, y siempre comprometido con lo que hago. Me esfuerzo por ser responsable y gestionar bien mi tiempo. Creo que empatía y la paciencia son claves para mejorar en esta area del desarrollo.<br><br>Estoy aquí para colaborar, aprender y crecer junto a la comunidad.
 
 
 ## 🌐 Redes sociales:
